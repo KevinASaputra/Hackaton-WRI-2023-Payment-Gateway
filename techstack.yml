@@ -2,7 +2,7 @@ repo_name: KevinASaputra/Hackaton-WRI-2023-Payment-Gateway
 report_id: 8970c2f0732b783cd66151e67023006c
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:27:50+00:00'
+timestamp: '2024-02-29T18:59:17+00:00'
 requested_by: KevinASaputra
 provider: github
 branch: main
@@ -65,7 +65,7 @@ tools:
   last_updated_by: Kevin
   last_updated_on: 2023-10-25 06:59:08.000000000 Z
 - name: Gin Gonic
-  description: 'HTTP web framework written in Go '
+  description: HTTP web framework written in Go
   website_url: https://gin-gonic.com/
   license: MIT
   open_source: true
@@ -78,7 +78,7 @@ tools:
   last_updated_by: FlaBBB
   last_updated_on: 2023-10-23 02:20:29.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.5.5
   open_source: true
